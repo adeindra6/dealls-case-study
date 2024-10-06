@@ -1,0 +1,21 @@
+.navbar-brand-title {
+    background-color: #2f059c;
+    height: 50px;
+}
+
+.navbar-brand-label {
+    color: aliceblue;
+    padding-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.job-carousel {
+    height: 500px;
+    width: 60%;
+    margin-bottom: 15%;
+    position: relative;
+    right: 20%;
+}
